@@ -1,3 +1,13 @@
+# Event Management 
+This web application, built using Django, Python, HTML, CSS, JS, and Bootstrap, provides a platform for managing events with integrated PayPal payment functionality. Users can create, manage, and attend events, making the event planning process more streamlined and efficient.
+
+
+
+
+
+
+
+
 
 
 All APIS:
