@@ -1,5 +1,14 @@
 # Event Management 
-This web application, built using Django, Python, HTML, CSS, JS, and Bootstrap, provides a platform for managing events with integrated PayPal payment functionality. Users can create, manage, and attend events, making the event planning process more streamlined and efficient.
+
+Technologies Used 
+
+•	Spring Boot- For the Backend Development of the project Event Management System, we have used Spring Boot.
+•	React JS- React is a popular JavaScript Library, we have used React is for development projects frontend.
+•	MySQL- MySQL is a widely used relational database management system, for storing our Event Management application data we have used the MySQL server.
+•	Maven- To simplify the project and the dependency management, we have used the Maven build tool.
+•	Bootstrap- For Styling the front end of the project we have used bootstrap which is a popular CSS framework for developing a responsive user interface.
+
+ 
 
 
 
