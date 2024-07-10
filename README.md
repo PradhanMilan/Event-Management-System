@@ -13,7 +13,21 @@
 	VS Code (Visual Studio Code)
 	MySQL Workbench
 
+# User Modules 
+	ADMINISTRATOR MODULE
+	CUSTOMER MODULE
  
+# Functional Modules
+1) User Authentication Module
+2) Event Category Module
+3) Event Module
+4) Event Booking Module
+
+
+# Project Overview
+
+
+![Overview](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/c8a6e228-eadc-4cf1-ad40-8e2793e71a18)
 
 
 
@@ -21,10 +35,7 @@
 
 
 
-
-
-
-All APIS:
+# All APIS:
 ![API1](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/4a4a480b-68a5-47d0-84e5-dd5eca2d9488)
 
 
@@ -36,14 +47,18 @@ All APIS:
 ![API3](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/efa2efce-b385-4be9-bf98-fcc87a3c9d7b)
 
 
- 
+#Home 
 ![1](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/569a955a-bb8c-406b-b841-46d6c1ea62c1)
 
 ![2](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/c927d278-ec49-4219-8328-c081f8681537)
 
+# Login And Registration
 ![3](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/66746eb6-1aeb-47db-a367-a1057ba96971)
 ![4](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/9283c2e3-4779-4de8-95f1-a00051f6171e)
-![5](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/6b1baabe-78f8-4a68-8e34-9a252a6a1675
+![5](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/6b1baabe-78f8-4a68-8e34-9a252a6a1675)
+
+# Admin
+
 ![6](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/2d301e4c-dc39-4f83-b65c-89a1a077ed19)
 
 ![7](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/8fadb952-390c-47ca-90eb-1f977ecfa416)
