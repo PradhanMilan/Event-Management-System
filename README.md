@@ -1,6 +1,6 @@
 
 
-
+All APIS:
 ![API1](https://github.com/PradhanMilan/Event-Management-System/assets/147618222/4a4a480b-68a5-47d0-84e5-dd5eca2d9488)
 
 
